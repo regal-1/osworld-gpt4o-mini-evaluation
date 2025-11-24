@@ -54,7 +54,7 @@ Each task produced:
 
 ## Task Behavior
 
-Below are concise summaries instead of full logs for each task.
+Each task is summarized below.
 
 ### Task 1 – Spotify Installation (OS)
 
